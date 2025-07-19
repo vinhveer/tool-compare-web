@@ -1,8 +1,1 @@
 @import "tailwindcss";
-
-@plugin "daisyui" {
-  themes: light --default, dark --prefersdark, corporate;
-  root: ":root";
-  prefix: "";
-  logs: true;
-}
